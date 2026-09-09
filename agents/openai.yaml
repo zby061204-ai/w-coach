@@ -1,0 +1,4 @@
+interface:
+  display_name: "W Coach"
+  short_description: "College writing feedback and revision coaching"
+  default_prompt: "Use $w-coach to review my college writing and guide my next revision."
